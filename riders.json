@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Stuart Roben",
+    "email": "stuart_roben@roben.com",
+    "age": 33,
+    "address": "Bhooter goli, khulna,bangladesh",
+    "phone": "0178-908-9082",
+    "driving licence picture": "https://jamesdocumentation.com/wp-content/uploads/2020/08/DRIVING-LICENCE.jpg",
+    "area": "Khulna",
+    "nid picture": "https://jamesdocumentation.com/wp-content/uploads/2020/08/NID-CARD.jpg",
+    "profile picture": "https://jamesdocumentation.com/wp-content/uploads/2020/08/PROFILE-PICTURE.jpg",
+    "carName": "Toyota",
+    "carModel": "Corolla",
+    "namePlate": "1234-5678-9012",
+    "vehicleType": "car"
+  },
+  {
+    "name": "Stuart Roben",
+    "email": "stuart_roben@roben.com",
+    "age": 33,
+    "address": "Bhooter goli, khulna,bangladesh",
+    "phone": "0178-908-9082",
+    "driving licence picture": "https://jamesdocumentation.com/wp-content/uploads/2020/08/DRIVING-LICENCE.jpg",
+    "area": "Khulna",
+    "nid picture": "https://jamesdocumentation.com/wp-content/uploads/2020/08/NID-CARD.jpg",
+    "profile picture": "https://jamesdocumentation.com/wp-content/uploads/2020/08/PROFILE-PICTURE.jpg",
+    "carName": "Toyota",
+    "carModel": "Corolla",
+    "namePlate": "1234-5678-9012",
+    "vehicleType": "car"
+  }
+]
